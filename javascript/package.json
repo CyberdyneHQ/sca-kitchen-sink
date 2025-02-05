@@ -11,6 +11,6 @@
 	},
 	"devDependencies": {
 		"app-builder-lib": "20.42.0",
-		"pg-native": "2.2.0"
+		"pg-native": "3.2.0"
 	}
 }
