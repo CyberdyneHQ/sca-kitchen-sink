@@ -25,4 +25,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-The vulnerabilities in this repository are intentionally created for testing purposes. Do not deploy or use this code in any production environment.
+The vulnerabilities in this repository are intentionally created for testing purposes. Do not deploy or use this code in any production environment.  
