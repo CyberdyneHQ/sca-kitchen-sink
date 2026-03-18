@@ -1,0 +1,14 @@
+{
+  "name": "bun-vulnerable-demo",
+  "version": "1.0.0",
+  "description": "Demo of vulnerable dependencies using bun",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "bun run index.js"
+  },
+  "dependencies": {
+    "socket.io": "4.5.0",
+    "axios": "1.1.3"
+  }
+}
