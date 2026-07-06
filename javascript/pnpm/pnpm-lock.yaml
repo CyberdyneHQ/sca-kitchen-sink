@@ -163,7 +163,7 @@ importers:
         version: 1.10.2
     devDependencies:
       happy-dom:
-        specifier: 20.8.3
+        specifier: ^20.8.3
         version: 20.8.3
 
 packages:
